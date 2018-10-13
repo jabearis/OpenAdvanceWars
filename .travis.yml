@@ -1,0 +1,17 @@
+language: cpp
+
+dist: trusty
+
+os: 
+ - windows
+ - linux
+
+
+
+compiler: clang
+
+addons:
+  apt:
+    packages:
+      - cmake-data
+      - cmake
