@@ -1,0 +1,7 @@
+Game.cpp Algorithm
+
+Game Resolution: 640x480
+
+Worlds - Content/Levels/Default.xml
+Levels - Content/Textures/Sheets.xml
+
